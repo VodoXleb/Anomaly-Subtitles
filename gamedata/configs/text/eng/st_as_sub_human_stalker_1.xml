@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="as_sub__characters_voice_human_stalker_1_alife_attack_prepare_attack_1">
+		<text>We're gonna kill you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_2">
+		<text>Go for the ra! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_3">
+		<text>HEAVY! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_4">
+		<text>Let's go! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_5">
+		<text>Let's grind! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_6">
+		<text>OH, FUCK YOU! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_many_1">
+		<text>Stop it, you bastards! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_many_2">
+		<text>Bullies and bastards! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_many_3">
+		<text>Beyu, platter! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_many_4">
+		<text>Everybody's clutches! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_many_5">
+		<text>Everybody's matches! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_one_1">
+		<text>Get him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_one_2">
+		<text>Finish him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_one_3">
+		<text>Machivo! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_one_4">
+		<text>Let's get him out! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_attack_one_5">
+		<text>Put it down! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_1">
+		<text>We're gonna kill you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_10">
+		<text>Everybody's clutches! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_11">
+		<text>Everybody's matches! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_12">
+		<text>That's it! You'll know! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_13">
+		<text>Eat, you bastard! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_14">
+		<text>That's for you, Gad! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_15">
+		<text>Get the bastard! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_16">
+		<text>Our Ree! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_17">
+		<text>Here! Take that! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_18">
+		<text>Take it from me! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_19">
+		<text>Grab it! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_2">
+		<text>Go for the ra! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_3">
+		<text>HEAVY! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_4">
+		<text>Let's go! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_5">
+		<text>Let's grind! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_6">
+		<text>OH, FUCK YOU! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_7">
+		<text>Stop it, you bastards! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_8">
+		<text>Bullies and bastards! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_attack_script_attack_9">
+		<text>Beyu, platter! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_backup_backup_1">
+		<text>Get the bastard! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_backup_backup_2">
+		<text>Our Ree! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_backup_backup_3">
+		<text>Here! Take that! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_backup_backup_4">
+		<text>NATHEW BORSH! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_backup_backup_5">
+		<text>Take it from me! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_backup_backup_6">
+		<text>Grab it! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_cover_fire_cover_fire_1">
+		<text>I got you, gado! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_cover_fire_cover_fire_2">
+		<text>Covering! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_cover_fire_cover_fire_3">
+		<text>Rew, I've got him pinned down! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_cover_fire_cover_fire_4">
+		<text>I'll get him, come on, Bull! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_cover_fire_cover_fire_5">
+		<text>I'll cover you! They're gonna put us out! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_cover_fire_cover_fire_6">
+		<text>Go on, squeeze him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_cover_fire_cover_fire_7">
+		<text>All right! I got your back! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_death_anomaly_0">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_death_death_1">
+		<text>Nope! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_death_death_2">
+		<text>Eh! Ah! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_death_death_3">
+		<text>Mother! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_death_death_4">
+		<text>Ughhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_death_death_5">
+		<text>Рђ! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_death_death_6">
+		<text>ahhh... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_death_death_7">
+		<text>Ogar! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_death_death_8">
+		<text>"M- fГЎ-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a!!!" </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_detour_detour_1">
+		<text>Prekromeya! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_detour_detour_2">
+		<text>Cover up, man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_detour_detour_3">
+		<text>Get him down! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_detour_detour_4">
+		<text>Pekryvay, I'm off! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_detour_detour_5">
+		<text>Give him a light, I'm going in! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_alife_attack_found_enemy_1">
+		<text>Attention! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_enemy_10">
+		<text>Attention stranger! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_enemy_2">
+		<text>Look at that! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_enemy_3">
+		<text>Opanki! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_enemy_4">
+		<text>Look out! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_enemy_5">
+		<text>GBOYO! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_enemy_6">
+		<text>Agon! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_enemy_7">
+		<text>Marriage! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_enemy_8">
+		<text>Firmware! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_enemy_9">
+		<text>Look out, stranger! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_down_enemy_down_1">
+		<text>Bingo! I got one! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_down_enemy_down_2">
+		<text>You saw me! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_down_enemy_down_3">
+		<text>All right, he's ready! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_down_enemy_down_4">
+		<text>Opa, everyone, yes jumped! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_down_enemy_down_5">
+		<text>Well, how am I doing? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_down_enemy_down_6">
+		<text>Busted! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_down_enemy_down_7">
+		<text>All right, you got him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_hit_enemy_hit_1">
+		<text>SPONSORED! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_hit_enemy_hit_2">
+		<text>Got him! Got him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_hit_enemy_hit_3">
+		<text>That's it! You'll know! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_hit_enemy_hit_4">
+		<text>Did you get it? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_hit_enemy_hit_5">
+		<text>Eat, you bastard! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_hit_enemy_hit_6">
+		<text>That's for you, Gad! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_cover_fire_cover_fire_1">
+		<text>Get the bastard! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_cover_fire_cover_fire_2">
+		<text>Our Ree! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_cover_fire_cover_fire_3">
+		<text>Here! Take that! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_cover_fire_cover_fire_4">
+		<text>NATHEW BORSH! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_cover_fire_cover_fire_5">
+		<text>Take it from me! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_cover_fire_cover_fire_6">
+		<text>Grab it! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_fire_friendly_fire_1">
+		<text>points and three on your own </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_fire_friendly_fire_2">
+		<text>While you're killing me, I'm my own man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_fire_friendly_fire_3">
+		<text>Hey, don't get your own on the seat! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_fire_friendly_fire_4">
+		<text>Watch what you're shooting at, you fool! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_fire_friendly_fire_5">
+		<text>Posevoim, sit down, you fucker! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_grenade_friendly_grenade_1">
+		<text>What the fuck are you doing? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_grenade_friendly_grenade_2">
+		<text>Watch where you're throwing it! You idiotic piece of shit! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_grenade_friendly_grenade_3">
+		<text>You almost got me, you arsehole! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_grenade_friendly_grenade_4">
+		<text>You've got eyes, you prick! I'm my own! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_grenade_friendly_grenade_5">
+		<text>Hands, arseholes, eh? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friend_hitted_hit_friend_1">
+		<text>Ours is hooked! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friend_hitted_hit_friend_2">
+		<text>You hit a man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friend_hitted_hit_friend_3">
+		<text>Hurt ours! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friend_hitted_hit_friend_4">
+		<text>We have casualties! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_grenade_friendly_grenade_1">
+		<text>Get down, grenade! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_grenade_friendly_grenade_2">
+		<text>Grenade! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_grenade_friendly_grenade_3">
+		<text>Grenade! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_friendly_grenade_friendly_grenade_4">
+		<text>Grenade! Watch out! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_grenade_grenade_ready_1">
+		<text>Get a grenade! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_grenade_grenade_ready_2">
+		<text>Here's a grenade for you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_grenade_grenade_ready_3">
+		<text>Our lemonade for you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_grenade_grenade_ready_4">
+		<text>Eat a pomegranate! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_grenade_grenade_ready_5">
+		<text>And I'll grenade you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_grenade_grenade_ready_6">
+		<text>Wowie, you're a guest! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_grenade_grenade_ready_7">
+		<text>Igranata for dessert! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_alife_attack_attack_ready_1">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_hit_enemy_hit_1">
+		<text>Aah, MOT!? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_hit_enemy_hit_2">
+		<text>Oh! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_hit_enemy_hit_3">
+		<text>What a bastard! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_hit_enemy_hit_4">
+		<text>Gimme, gimme, gimme, gimme! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_hit_enemy_hit_5">
+		<text>Oh, wow! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_enemy_hit_enemy_hit_6">
+		<text>Wee-ee-ee-ee-ee! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_hit_hit_7">
+		<text>Aaaaaaaaaaah! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_hit_hit_8">
+		<text>Ooh! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_hit_hit_9">
+		<text>OOOOOOOO! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_post_combat_wait_relax_1">
+		<text>Thank you all! And everybody's free! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_post_combat_wait_relax_2">
+		<text>We can take a little break. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_post_combat_wait_relax_3">
+		<text>All men, stand down! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_post_combat_wait_wait_1">
+		<text>Perhaps there's more to come! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_post_combat_wait_wait_2">
+		<text>Chica, we'll wait a little longer. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_post_combat_wait_wait_3">
+		<text>Guys, don't relax! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_post_combat_wait_wait_4">
+		<text>Don't split up! We're waiting! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_post_combat_wait_wait_5">
+		<text>Well, let's wait a little longer for a guarantee! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_enemy_lost_1">
+		<text>Scorenka, we're looking, Scorenka, before he gets away! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_enemy_lost_2">
+		<text>Where the hell are you? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_enemy_lost_3">
+		<text>Where's he hiding, eh? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_enemy_lost_4">
+		<text>He's a cattle prod somewhere. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_enemy_lost_5">
+		<text>Business, not yours right here! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_enemy_lost_6">
+		<text>Hey you, don't think, you haven't left us yet! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_enemy_lost_7">
+		<text>The dog's gone, we've got to find him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_enemy_lost_8">
+		<text>You won't get away, we'll find you now! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_search_1">
+		<text>Well, publish for now! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_search_2">
+		<text>Don't hide, come out yourself! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_search_3">
+		<text>Where the hell are you, where the hell are you?! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_search_4">
+		<text>Come out, don't hide! Clean it up like a man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_search_5">
+		<text>That's it, you're dead! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_search_6">
+		<text>You can't hide from us! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_searching_enemy_search_7">
+		<text>Just get us! I'll get you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_threat_threat_close_1">
+		<text>You're a trog man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_threat_threat_close_2">
+		<text>You're dead! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_threat_threat_close_3">
+		<text>Chipa Cover! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_threat_threat_close_4">
+		<text>You're dead! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_threat_threat_close_5">
+		<text>You're a dead man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_threat_threat_distant_1">
+		<text>Man, I'm gonna get you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_threat_threat_distant_2">
+		<text>You can't get away from me! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_threat_threat_distant_3">
+		<text>I'll get you, I'll get you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_threat_threat_distant_4">
+		<text>You're a dead man, you prick, you understand? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_threat_threat_distant_5">
+		<text>You bastard, I'm gonna get you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_threat_threat_distant_6">
+		<text>That's it, you're dead! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_tolls_tolls_1">
+		<text>Hey, there's been a murder! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_tolls_tolls_2">
+		<text>Killed a man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_tolls_tolls_3">
+		<text>One of ours is ready! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_tolls_tolls_4">
+		<text>Our man is down! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_fight_tolls_tolls_5">
+		<text>Our man was killed! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_combat_coming_1">
+		<text>Man, we're on our way! Hold on! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_combat_coming_1_pda">
+		<text>Man, we're coming, hold on! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_combat_coming_2">
+		<text>Man, just hold on a little longer, we're coming! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_combat_coming_2_pda">
+		<text>Man! Just hold on a little longer! We're coming! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_combat_coming_3">
+		<text>Don't worry, bro, we'll be right there! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_combat_coming_3_pda">
+		<text>Don't worry, bro, we'll be right there! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_kill_wounded_1">
+		<text>Take that, you bastard! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_kill_wounded_2">
+		<text>Man, relax, we'll all be there. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_kill_wounded_3">
+		<text>You don't want to be a rat? Do you need a hand? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_kill_wounded_4">
+		<text>Look at you, fidgeting! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_kill_wounded_5">
+		<text>You should be thankful I don't spare bullets. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_medkit_1">
+		<text>You don't take the piss out of me, Doctor. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_medkit_2">
+		<text>Don't drift, I've got a scope, I can take you out in a heartbeat. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_medkit_3">
+		<text>I'll get you back on your feet, no problem. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_alife_defence_actor_help_1">
+		<text>Man! Over here! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_heavy_help_2">
+		<text>Help me! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_heavy_help_3">
+		<text>That's how you're gonna die, not by a dog's tail. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_heavy_help_4">
+		<text>Hand it over! Somebody! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_heavy_help_5">
+		<text>Hey, who are they? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_thanx_thanx_1">
+		<text>Thanks, man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_thanx_thanx_2">
+		<text>Man, thank you so much! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_help_wounded_thanx_thanx_3">
+		<text>Thanks, mate! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_box_box_1">
+		<text>Someone's going out again. We'll get him now! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_box_box_2">
+		<text>Guys, our box! Ah, Variugai! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_box_box_3">
+		<text>Guys, there's some jerk in our drawer. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_joke_reaction_joke_1">
+		<text>Oh, man, that's not funny! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_joke_reaction_joke_2">
+		<text>Anything on the latest? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_music_reaction_music_1">
+		<text>master </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_music_reaction_music_2">
+		<text>GUAS! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_music_reaction_music_3">
+		<text>That's how Milodom anointed it! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_music_reaction_music_4">
+		<text>Hey, you're doing a great job! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_music_reaction_music_5">
+		<text>I'm coming, Riktor! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_music_reaction_music_6">
+		<text>All right, knock it off! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_music_reaction_music_7">
+		<text>you're a hell of a musician. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_story_laughter_1">
+		<text>HAHAHAHAHAHAHAHAHAHAHAHA! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_story_laughter_2">
+		<text>LAUGHTER </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_story_laughter_3">
+		<text>hr... hr... hr... hr... дёЂжЁЈ hПЃ... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_story_laughter_4">
+		<text>Ha-ha-ha! Ah, good! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_story_laughter_5">
+		<text>Ha-ha-ha-ha-ha-ha-ha-ha-ha. That's a good one. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_story_laughter_6">
+		<text>Ha-ha-ha-ha-ha-ha-ha! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_breath_breath_1">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_breath_breath_2">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_1">
+		<text>And no one on the horizon, that's fine, that's good. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_10">
+		<text>They're packs, but they're animals by the colour of their skins. Some of them have been outlawing and still are. Others are either guarding us from the zone or the zone is guarding us from the zone. Saldatas, too. The man sends them, but what are you blowing your nose for? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_11">
+		<text>I wish I had something good to eat, but I don't. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_12">
+		<text>Yeah, the mood couldn't be worse. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_13">
+		<text>Eh, it's not that kind of loot anymore, it's not that kind of loot, it's time to stop. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_14">
+		<text>Oh-ho-ho-ho-ho-ho-ho-ho! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_15">
+		<text>Yes. That's how sad it is. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_16">
+		<text>No, there's no escaping fate. What's written in your blood, it's what will happen. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_17">
+		<text>and they're all better than the old ones know. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_18">
+		<text>Don't learn anything, some don't want to learn. Kynamerican's got a roof over their heads with this greed. You talk to him about Anomalies, he talks to you about Khabar. They don't have anything to think about but money. As long as the guts and guts are scattered. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_19">
+		<text>Eh, I wish I could always have that kind of luck, it's like, yeah, right, three or four trips like yesterday, if I had some more hubbub already, and I'm done for the hell of it. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_2">
+		<text>Ah, no, I don't want to get into that today. Now I'd like to be home in a homo dosknezka. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_20">
+		<text>Shit. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_21">
+		<text>AAAA </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_22">
+		<text>Heh-heh! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_23">
+		<text>Aaaaaaaaaaah! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_24">
+		<text>The centre of the zone, the centre of the zone too, artifacts on the cat. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_25">
+		<text>And here I thought it was just a matter of getting past the burner. Somewhere in here behind him is an eclandike of artefacts and a wish granter. Fool! Oh, you fool. You know, your idiot luck. Artefacts, what about it? Nothing but untravelled trails and unfed critters. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_26">
+		<text>Not bad, not bad, two night stars in one go. If this keeps up, I've seen the back of your lauded klandyke. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_27">
+		<text>Yol and paly, but I saw Pripyat yesterday, just like that with my own eyes. If someone had told me that a month ago, I never would have believed it. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_3">
+		<text>I'll still save up for my stacked house, or I'll be next door. And no beasts, no bastards, no bastards of any kind. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_4">
+		<text>I'm so thirsty, I'm going to get you a cold one I've been shibal. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_5">
+		<text>a piece of meat so big, I'd curl up squashy, juicy..... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_6">
+		<text>And sausage and baton chehrens are old to make. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_7">
+		<text>Nothing, it's okay, we'll get through, it's not for nothing that I've been smoking the sky here for so long, me and my friend and her and mine, we'll get through. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_8">
+		<text>They've slipped the shoddy co-passengers again, they have no conscience at all, they've had a week's worth of goplyk. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_idle_idle_9">
+		<text>Oh, shit, huh? The day's a-whoa-whoa-whoa. No habaranum, no weld. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_loot_loot_bad_1">
+		<text>Yeah, I've had worse fire days. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_loot_loot_bad_2">
+		<text>And this Golcock falcon..... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_loot_loot_bad_3">
+		<text>You're not even going into the zone with that kind of stuff. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_loot_loot_begin_1">
+		<text>No good will go to waste, I reckon. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_loot_loot_begin_2">
+		<text>All right, man, what you got there? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_loot_loot_begin_3">
+		<text>I apologise, of course, but it's all no use to you anymore. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_loot_loot_good_1">
+		<text>Why, that's pretty good! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_loot_loot_good_2">
+		<text>You were a handy man. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_loot_loot_good_3">
+		<text>It's a rich one! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_hello_1">
+		<text>Well, hello! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_hello_2">
+		<text>Hey, bro! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_hello_3">
+		<text>I'm listening to you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_hide_weapon_1">
+		<text>Put the gun down, man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_hide_weapon_2">
+		<text>Neboluy, hide your weapon! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_hide_weapon_3">
+		<text>Put the gun away, man </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_stop_1">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_default_1">
+		<text>I'm not gonna talk to you. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_default_2">
+		<text>I don't want to talk to you. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_default_3">
+		<text>I'm not in the mood to talk these days. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_fight_1">
+		<text>What's there to talk about now? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_fight_2">
+		<text>Man, you're crazy, we'll talk later! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_fight_3">
+		<text>There's a shooting, you moron! Later, all later! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_talk_leader_1">
+		<text>If you need anything, I ask the man in charge! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_talk_leader_2">
+		<text>Look, all questions for the man in charge. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_talk_leader_3">
+		<text>There's an older man standing over there, so you talk to him. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_talk_leader_4">
+		<text>Ask the ustarshevo! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_weapon_1">
+		<text>First the guns are cleaned up, what a conversation! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_weapon_2">
+		<text>I don't like to say under the gun man. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_weapon_3">
+		<text>No, that's not the way to have a conversation. You're guns! Guns, hide them! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_wait_1">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_panic_human_panic_human_1">
+		<text>Oh, you... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_panic_human_panic_human_2">
+		<text>Otedelmo! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_panic_human_panic_human_3">
+		<text>Don't shoot! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_panic_human_panic_human_4">
+		<text>Man, don't shoot! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_panic_human_panic_human_5">
+		<text>I'm unarmed! Don't shoot! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_panic_human_panic_human_6">
+		<text>Stop it! Don't! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_panic_human_panic_human_7">
+		<text>All right, man, don't shoot! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_panic_monster_panic_monster_1">
+		<text>Ah-ah-ah, ugly! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_panic_monster_panic_monster_2">
+		<text>Get away! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_panic_monster_panic_monster_3">
+		<text>Bastardise me! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_panic_monster_panic_monster_4">
+		<text>You bastard, get off! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_sleep_sleep_1">
+		<text>Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_sleep_sleep_2">
+		<text>Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_sleep_sleep_3">
+		<text>CALM MUSIC CALM MUSIC CALM MUSIC </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_sleep_sleep_4">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_sleep_sleep_5">
+		<text>Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_sleep_sleep_6">
+		<text>Ex </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_sleep_sleep_7">
+		<text>and the ones I don't forget </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_sleep_sleep_8">
+		<text>Errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr. Rerusheshi, canal. Yeah, I'm Bran Tucker. A good one. What do you want to be captive to? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_sleep_sleep_9">
+		<text>Okay, they're hanging their ears. A vstadanga. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_trade_buy_1">
+		<text>I could use a bit of a boost. Money, money burns. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_trade_buy_2">
+		<text>Come on, show me today's goods, I'll see what I've got enough for. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_trade_buy_3">
+		<text>Show me what you've got, I've got a bit of coin. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_trade_sell_1">
+		<text>Listen, I brought some good stuff. I'd like one of these, at least once a week. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_trade_sell_2">
+		<text>I've been here for something, look! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_trade_sell_3">
+		<text>There's a hiding place on the habora pomelochi. I've had some bad luck lately. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_intros_intro_joke_1">
+		<text>remembered this </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_intros_intro_joke_2">
+		<text>What did I somehow hear? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_intros_intro_joke_3">
+		<text>Attention, I'm giving away a humour joke! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_intros_intro_joke_4">
+		<text>Like this, does anyone know? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_intros_intro_music_1">
+		<text>What are you guys missing? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_intros_intro_music_2">
+		<text>Listen up, men! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_intros_intro_music_3">
+		<text>How about this one for you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_intros_intro_music_4">
+		<text>All right, musical intermission! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_joke_reaction_joke_1">
+		<text>Two stalkers are sitting in a bar, they've had a good drink and are discussing everyone around them. Soma Lazy is the military, stalkers on the salom cardon robbed, took away habarah immediately after 100 metres sold Sidorovich. No, you're wrong. The laziest are tradesmen, and I know one who gets up early on purpose so he can do nothing. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_jokes_joke_10">
+		<text>In general, zone, forest, clearing, on the doorstep of an old spinster sits a bloodsucker. It's quiet all round, the weather is marvellous, all in all a complete idea. Then a little bloodsucker comes running out of the house and goes to his daddy to shake him. Dad, ah, show me the stalkers! Dad, show me the stalkers! He goes to the old man's house, comes out with a skull on each arm. And it starts like a puppet theatre. The left skull is so thin. Semenoch, listen, what do you think, Are there any bloodsuckers here? The right one's got a bass voice. Oh, come on, Petrukha. What the hell kind of bloodsuckers are there? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_jokes_joke_11">
+		<text>A conversation on the blockpass at the cordon. Comrade Warrant Officer, can we watch TV? What's not to be afraid of? You can only make a deal not to switch it on. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_jokes_joke_12">
+		<text>Once scientists decided to conduct field trials of a new drug. So we hired a group of stalkers to do the job. A few days go by, one stalker comes to the professor and says. Hear that you changed my tyres, did you? The one about the rosary corrected him ever so gently. Why do you suddenly think the drug has been changed? And Stalker, I used to throw the pills in the hole, they melted, and now all of a sudden they're floating. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_jokes_joke_13">
+		<text>They brought one of the officials to the zone once, to show something, how some things surprised him, some things angered him, and some things were stolen from him. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_reactions_joke_reaction_joke_2">
+		<text>One stalker says to the other, "I always take a camping trip with me I'll take a picture of my mother-in-law. Why? I mean, cold, mud, anomalies, mutants, and here I am on the card and I'm thinking, God, this feels good. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_intros_intro_joke_3">
+		<text>The doctor listens to Stalker coming in for an appointment and says. All right, all right. Doctors, what good does Stalker ask? Good thing it's not me. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_intros_intro_joke_4">
+		<text>Three stalkers share advice. I got myself a black jacket, so now the bandits take me as one of their own and don't touch me. I dyed my suit like this, that looks like an army armoured car. And I'm wearing an old tattered jumpsuit, and it says on the back, I'm not a success. You touch me, and my bad luck will be passed on to you. So no one comes within 50 metres. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_jokes_joke_5">
+		<text>So the stalker came to the doctor. The doctor examines him and says, this is from fatigue, it's from nervous tension, and that's depression. Thank you, Doctor, thank you, and you have nothing but vodka. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_jokes_joke_6">
+		<text>Stalker meets up with his old friend, and there's a banged-up the whole black eye. Drink, what's wrong with you? Shit, they attacked, beat me up, took my money, you remember them at least? What's there to remember her for, a wife? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_jokes_joke_7">
+		<text>One stalker asks another, do you know what the most stalker car is? That's not the answer, what is it? Zaporozhets, why? Simple, solid as a tank and a boot in the front. It's handy to keep an eye on the choir. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_jokes_joke_8">
+		<text>Stalker and Vayaka crossed paths once near the cordon. Stalker to soldier. Where are you scratching? What are you doing, man? That's a military secret. Hey, don't warm up, I didn't know. What are you carrying so heavy all banned? Oh, shut the fuck up. Those armour-piercing rounds are going to the warehouse. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_jokes_joke_9">
+		<text>Stalker stashed in the Hubbar tree, and one evening decided to check it out, how's it going, is everything in one piece, and there's someone sitting there, rustling around, legs bass and dangling, and a heron that sits firmly between his legs on a tree, and tell me, bitch, who the fuck are you, what's your gang? Silence, but the stalker pressed even harder, who is he, I ask, and he is silent again. Well, the stalker got angry, squeezed it so hard that it ran down his arm. You hear me, you bastard, and I'm gonna rip you off, answering who you are, now! And from above, a faint, husky voice, "Why didn't you say anything, you bastard? I'm not mine! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_use_abuse_1">
+		<text>All right, I'll get it! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_use_abuse_2">
+		<text>You've had it, all right? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_use_abuse_3">
+		<text>Fuck you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_default_1">
+		<text>I'm not gonna talk. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_default_2">
+		<text>I don't want to talk to you. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_default_3">
+		<text>I'm not in the mood to talk these days. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_use_no_default_4">
+		<text>Look, I'm tired, I can't talk. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_use_no_default_5">
+		<text>Tolkuta, talking to you. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_fight_1">
+		<text>What's the talk now? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_fight_2">
+		<text>Man, are you crazy? I'll talk to you later! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_fight_3">
+		<text>This is no time to talk! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_use_no_fight_4">
+		<text>There's gunfire, you arsehole! We'll talk afterwards! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_use_no_fight_5">
+		<text>Fuck you for talking! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_use_no_fight_6">
+		<text>Talking now? What's wrong with you? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_use_no_fight_7">
+		<text>Paton! All talk, Paton! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_use_no_sleep_1">
+		<text>Hey, what do you want, in the middle of the night? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_use_no_sleep_2">
+		<text>There, there on the shelf, look. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_talk_use_no_sleep_3">
+		<text>Oh, fuck you where you're going. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_weapon_1">
+		<text>Put the gun away first, then I'll talk to you. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_weapon_2">
+		<text>Come on, man, if we're gonna talk, let's do it the easy way. No guns! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_states_meet_meet_use_no_weapon_3">
+		<text>No, we're not having this conversation, put the gun away! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_threat_back_off_backoff_1">
+		<text>Get away from here, man. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_threat_back_off_backoff_2">
+		<text>Getting the hell out of here, all right? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_threat_back_off_backoff_3">
+		<text>What are you doing here? Get out of here, man, while you still got it! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_threat_back_off_backoff_4">
+		<text>Come on, boil it properly. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_threat_back_off_backoff_5">
+		<text>Give me the fur coats right now, huh? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_threat_drop_weapon_dropweapon_1">
+		<text>Good one cleaned up! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_threat_drop_weapon_dropweapon_2">
+		<text>Put the gun down, man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_threat_drop_weapon_dropweapon_3">
+		<text>Don't bola, hide your weapon! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_threat_drop_weapon_dropweapon_4">
+		<text>No kidding, just hide! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_stalker_1_threat_drop_weapon_dropweapon_5">
+		<text>Put the gun away, man! </text>
+	</string>
+</string_table>

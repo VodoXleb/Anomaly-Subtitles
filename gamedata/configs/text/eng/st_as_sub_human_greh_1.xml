@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_1">
+		<text>Shit! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_2">
+		<text>Get out of my way! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_3">
+		<text>Let's go big! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_4">
+		<text>It's already zuby! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_5">
+		<text>Let's grind! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_6">
+		<text>OH, MY FUCKING GOD! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_many_1">
+		<text>Stop it, you bastards! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_many_2">
+		<text>Take the bastards out! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_many_3">
+		<text>Beat the bastards! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_many_4">
+		<text>Let's put them all down! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_many_5">
+		<text>Subtitle Editor A. Sinetskaya Corrector A. Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_one_1">
+		<text>Get him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_one_2">
+		<text>Finish him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_one_3">
+		<text>Get him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_one_4">
+		<text>Let's get him out! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_attack_attack_one_5">
+		<text>Put it down! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_backup_backup_1">
+		<text>Get the bastard! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_backup_backup_2">
+		<text>Najee! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_backup_backup_3">
+		<text>Here, take this! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_backup_backup_4">
+		<text>Mash, grab it! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_backup_backup_5">
+		<text>Take it from me! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_cover_fire_cover_fire_1">
+		<text>I got you, gado! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_cover_fire_cover_fire_2">
+		<text>Rew, I've got him pinned down! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_cover_fire_cover_fire_3">
+		<text>Come on, I've got your back! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_cover_fire_cover_fire_4">
+		<text>I'll get him! Come on, Bull! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_cover_fire_cover_fire_5">
+		<text>Cover us and he won't come out! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_cover_fire_cover_fire_6">
+		<text>Come on, let's get him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_cover_fire_cover_fire_7">
+		<text>Water, I'll cover you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_death_death_1">
+		<text>Man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_death_death_2">
+		<text>Nuh-uh-uh-uh! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_death_death_3">
+		<text>Рњ... Meyer! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_death_death_4">
+		<text>Yeah... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_death_death_5">
+		<text>OOOOOOOOOOOOOO </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_death_death_6">
+		<text>Ooh-ooh-ooh-ooh-ooh! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_death_death_7">
+		<text>Urgia! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_death_death_8">
+		<text>PO-H-H... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_death_death_9">
+		<text>er... ah... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_detour_detour_1">
+		<text>Cover me! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_detour_detour_2">
+		<text>Cover up, man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_detour_detour_3">
+		<text>Help with the fire! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_detour_detour_4">
+		<text>Get him down! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_detour_detour_5">
+		<text>Cover me, I'm going! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_detour_detour_6">
+		<text>Yeah, I'll give him a light! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_enemy_1">
+		<text>Attention! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_enemy_10">
+		<text>Attention, stranger! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_enemy_2">
+		<text>Look out! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_enemy_3">
+		<text>To battle! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_enemy_4">
+		<text>Aydon! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_enemy_5">
+		<text>Vrak! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_enemy_6">
+		<text>Prodivnik! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_enemy_7">
+		<text>Go, toad! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_enemy_8">
+		<text>Firmware! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_enemy_9">
+		<text>Look out, stranger! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_down_enemy_down_1">
+		<text>Bingo! Scoops of one! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_down_enemy_down_2">
+		<text>I saw him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_down_enemy_down_3">
+		<text>All right, he's ready! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_down_enemy_down_4">
+		<text>Whoa, that's it, it's jumping! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_down_enemy_down_5">
+		<text>Well, how are you doing? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_down_enemy_down_6">
+		<text>Soboleil! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_down_enemy_down_7">
+		<text>All right, you got him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_1">
+		<text>SPOTLIGHT! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_2">
+		<text>Brought him! Brought him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_3">
+		<text>WATAC! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_4">
+		<text>You should know! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_5">
+		<text>Did you get it? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_6">
+		<text>You bastard! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_7">
+		<text>Get down, Katina! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_cover_fire_cover_fire_1">
+		<text>Get the bastard! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_cover_fire_cover_fire_2">
+		<text>Najee! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_cover_fire_cover_fire_3">
+		<text>Here, take this! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_cover_fire_cover_fire_4">
+		<text>Mash, grab it! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_cover_fire_cover_fire_5">
+		<text>Take it from me! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_friendly_fire_friendly_fire_1">
+		<text>You're shooting at your own! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_friendly_fire_friendly_fire_2">
+		<text>I'm your man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_friendly_fire_friendly_fire_3">
+		<text>Hey! Don't shoot your own! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_friendly_fire_friendly_fire_4">
+		<text>Let's see who you're shooting! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_friendly_fire_friendly_fire_5">
+		<text>You're sitting on your own, you idiot! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_friendly_fire_friendly_fire_6">
+		<text>You're out of your fucking mind, watch where you're aiming, you idiot! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_friendly_fire_friendly_fire_7">
+		<text>Watch where you're aiming, you idiot! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_friend_hitted_hit_friend_1">
+		<text>Ours is hooked! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_friend_hitted_hit_friend_2">
+		<text>Ujigga's hurt! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_friend_hitted_hit_friend_3">
+		<text>Our Ranelagh! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_friend_hitted_hit_friend_4">
+		<text>Hey, there's a man down! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_friend_hitted_hit_friend_5">
+		<text>Your own cepanol! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_grenade_grenade_1">
+		<text>Get down, grenade! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_grenade_grenade_2">
+		<text>Grenade! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_grenade_grenade_3">
+		<text>Grenade! Watch out! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_grenade_grenade_4">
+		<text>Grenade! Watch out! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_1">
+		<text>What a bastard! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_hit_hit_10">
+		<text>Shit! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_2">
+		<text>DAY OITZ! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_3">
+		<text>You got me! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_4">
+		<text>STEPILIMINA! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_5">
+		<text>Рђ! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_6">
+		<text>Ah! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_enemy_hit_enemy_hit_7">
+		<text>Aah! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_hit_hit_8">
+		<text>AAH! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_hit_hit_9">
+		<text>AAAAAAAAAAAA! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_enemy_lost_1">
+		<text>Where the hell are you? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_enemy_lost_2">
+		<text>Where's he hiding, eh? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_enemy_lost_3">
+		<text>He's a bastard somewhere! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_enemy_lost_4">
+		<text>I gave birth, he's not here! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_enemy_lost_5">
+		<text>Hey you! Don't think, you haven't left us yet! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_enemy_lost_6">
+		<text>He's gone, we've got to find him! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_enemy_lost_7">
+		<text>You won't get away, we'll find us now anyway! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_enemy_lost_8">
+		<text>It's okay, you won't get away, we'll find you now! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_search_1">
+		<text>Well, publish for now! TETHER! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_search_2">
+		<text>Don't hide, come out yourself! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_search_3">
+		<text>That's where he's hiding! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_search_4">
+		<text>Let's get him before he gets away! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_search_5">
+		<text>Come on out, don't hide it, smart as a man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_search_6">
+		<text>That's it, you're covered! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_search_7">
+		<text>You can't hide from us! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_search_8">
+		<text>We're gonna cut you off! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_searching_enemy_search_9">
+		<text>Show yourself, show yourself! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_threat_threat_close_1">
+		<text>You're a trope man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_threat_threat_close_2">
+		<text>You're dead! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_threat_threat_close_3">
+		<text>You're a pussy! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_threat_threat_close_4">
+		<text>Crom you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_threat_threat_close_5">
+		<text>You're a dead man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_threat_threat_distant_1">
+		<text>Wujik, I'm gonna get you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_threat_threat_distant_2">
+		<text>Hey, you're cancelled! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_threat_threat_distant_3">
+		<text>Usi, I'll trust you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_threat_threat_distant_4">
+		<text>You're a freak, you're a dead man, okay? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_threat_threat_distant_5">
+		<text>You bastard, I'm gonna get you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_threat_threat_distant_6">
+		<text>That's it, you're dead! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_tolls_tolls_1">
+		<text>Killed a man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_tolls_tolls_2">
+		<text>Ojatya killed! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_tolls_tolls_3">
+		<text>One of ours is ready! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_tolls_tolls_4">
+		<text>Ours got you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_fight_tolls_tolls_5">
+		<text>Uzhiki, we've got a murderer! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_kill_wounded_1">
+		<text>All right, bitch, it's your turn! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_kill_wounded_2">
+		<text>And when you're in heat, keep the kurova pole! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_kill_wounded_3">
+		<text>The bastard's gonna get it! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_medkit_1">
+		<text>Hang in there, bro! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_medkit_2">
+		<text>Shametia under the patch! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_medkit_3">
+		<text>Bear with me for a moment, brother. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_heavy_help_1">
+		<text>Aaaah! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_heavy_help_2">
+		<text>I'm a bird! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_heavy_help_3">
+		<text>Ahhhhhhhhhhhhhhhhhh </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_heavy_help_4">
+		<text>aaaaaaaaaaaaaaaaaaaaaaLaughter </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_heavy_help_5">
+		<text>Ah, ah, ah.... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_heavy_help_6">
+		<text>op squirrel </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_thanx_thanx_1">
+		<text>Thanks, bro, you're a big help. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_thanx_thanx_2">
+		<text>I owe you one, thank you. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_thanx_thanx_3">
+		<text>Thank you, Azimela. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_thanx_thanx_4">
+		<text>Thanks, mate! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_help_wounded_thanx_thanx_5">
+		<text>Thanks mate, I owe you one. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_guitar_1">
+		<text>Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_guitar_10">
+		<text>DYNAMIC MUSIC Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_guitar_11">
+		<text>DYNAMIC MUSIC Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_guitar_12">
+		<text>SCREENSAVER SCREENSAVER Subtitle Editor M.Loseva Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_guitar_2">
+		<text>DYNAMIC MUSIC Subtitle Editor A.Sinetskaya Corrector A.Kulakova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_guitar_3">
+		<text>DYNAMIC MUSIC Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_guitar_4">
+		<text>DYNAMIC MUSIC Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_guitar_5">
+		<text>DYNAMIC MUSIC Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_guitar_6">
+		<text>CALM MUSIC Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_guitar_7">
+		<text>Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili Subtitle Editor A. Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_guitar_8">
+		<text>DYNAMIC MUSIC Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_guitar_9">
+		<text>DYNAMIC MUSIC Subtitle Editor A.Sinetskaya Corrector A.Kulakova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_harmonica_1">
+		<text>CALM MUSIC Subtitle Editor A.Sinetskaya Corrector A.Kulakova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_harmonica_2">
+		<text>Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh ooh, ooh, ooh </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_harmonica_3">
+		<text>PHONE CALL PHONE CALL </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_harmonica_4">
+		<text>РўР°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р° Р° Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°СѓР°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°СѓР°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°СѓР°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р°Р° and more like God </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_music_harmonica_5">
+		<text>PHONE CALL PHONE CALL </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_joke_reaction_joke_1">
+		<text>Let's go! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_joke_reaction_joke_2">
+		<text>I'm right here. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_joke_reaction_joke_3">
+		<text>Oh, let's go wild! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_joke_reaction_joke_4">
+		<text>Uh-uh, mate! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_joke_reaction_joke_5">
+		<text>Why? Because gladiolus. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_joke_reaction_joke_6">
+		<text>Look, he's trying to kill us all. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_music_reaction_music_1">
+		<text>Soulful. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_music_reaction_music_2">
+		<text>Is there anything else you can do? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_music_reaction_music_3">
+		<text>It's all right! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_music_reaction_music_4">
+		<text>Nice! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_music_reaction_music_5">
+		<text>Well done! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_music_reaction_music_6">
+		<text>Eh, thank you. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_music_reaction_music_7">
+		<text>Cool basel. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_music_reaction_music_8">
+		<text>He's pretty good. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_music_reaction_music_9">
+		<text>No sour! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_story_laughter_1">
+		<text>Ha ha ha! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_story_laughter_10">
+		<text>DYNAMIC MUSIC </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_story_laughter_2">
+		<text>Ha-ha-ha-ha-ha-ha-ha-ha! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_story_laughter_3">
+		<text>Heh-heh-heh-heh-heh! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_story_laughter_4">
+		<text>CALM MUSIC </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_story_laughter_5">
+		<text>Ha ha ha! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_story_laughter_6">
+		<text>Ha ha ha! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_story_laughter_7">
+		<text>CALM MUSIC </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_story_laughter_8">
+		<text>Heh-heh-heh-heh! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_story_laughter_9">
+		<text>vet Рё </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_breath_breath_1">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_breath_breath_2">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_1">
+		<text>Manalith! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_10">
+		<text>Gwar? Yes! tramp... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_11">
+		<text>Oh! Ugh! Ugh! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_12">
+		<text>Abra, Kadabra, Abra, Kadabra, Abra, Kadabra.... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_13">
+		<text>What the hell would you like to eat? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_14">
+		<text>I'm starving. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_15">
+		<text>Eh, no saltines now! Ta tsebo, ulke! Eh! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_16">
+		<text>Hoving the way you want to hovel. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_17">
+		<text>Ooh. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_18">
+		<text>Ah, ah, ah, ah! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_19">
+		<text>Mm-mm-mm! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_2">
+		<text>Hehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehe! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_20">
+		<text>Well? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_21">
+		<text> </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_22">
+		<text>CALM MUSIC </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_23">
+		<text>B pandemic Mmmmmmmmmmmmm!!! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_24">
+		<text>Ugh! Ugh! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_25">
+		<text>Рћ! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_26">
+		<text>Ah, ah, ah, ah! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_27">
+		<text>Mm-mm-mm! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_28">
+		<text>Mm-hmm! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_29">
+		<text> </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_3">
+		<text>Ah, ah, ah, ah, ah, ah, ah.... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_30">
+		<text>CALM MUSIC </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_31">
+		<text>Hmm! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_32">
+		<text>РџРћ-Рђ-Рђ-Рђ-Рђ-Рђ-Рђ-Рђ-Рђ-Рђ-Рђ-Рђ! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_33">
+		<text>Hoo! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_34">
+		<text>No sahal water, Koro we sloganise, He's on the back manka, Hey, yak bar vinakh vinakh. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_35">
+		<text>CALM MUSIC </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_36">
+		<text>LAUGHTER LAUGHTER </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_4">
+		<text>LAUGHTER </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_5">
+		<text>aaah! aaaaaaaaaaaaaaaaah! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_6">
+		<text>Aaah О·! aah aah aah! MADSMR! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_7">
+		<text>Ono, sei. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_8">
+		<text>Oh, oh, oh, oh, oh, oh, oh. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_idle_idle_9">
+		<text>kaetn, ah, ah ah ah ah ah </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_loot_loot_bad_1">
+		<text>Yes, it's fate. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_loot_loot_bad_2">
+		<text>Well, there's one more missing. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_loot_loot_bad_3">
+		<text>I knew he'd jump sooner or later. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_loot_loot_begin_1">
+		<text>Whoops! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_loot_loot_begin_2">
+		<text>Quiet! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_loot_loot_begin_3">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_loot_loot_good_1">
+		<text>Yes, it's fate. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_loot_loot_good_2">
+		<text>Well, there's one more missing. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_loot_loot_good_3">
+		<text>I knew he'd jump sooner or later. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_comander_start_1">
+		<text>Hi! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_comander_start_2">
+		<text>Damn it! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_comander_start_3">
+		<text>in the daru. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_comander_stop_1">
+		<text>Well, good hunting from Telker. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_comander_stop_2">
+		<text>All right, see you later! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_comander_stop_3">
+		<text>Hoya's happy! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_comander_wait_1">
+		<text>HAPHAPHAPHAP local </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_comander_wait_2">
+		<text>Ah, ah, ah, ah, ah, ah, ah.... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_comander_wait_3">
+		<text>CALM MUSIC </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_comander_wait_4">
+		<text>At least it would seem like a mouthful. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_comander_wait_5">
+		<text>Eh, no saltines now! Ta tsebo, ulke! Eh! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_general_start_1">
+		<text>That's great! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_general_start_2">
+		<text>Daro! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_general_start_3">
+		<text>Hi! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_general_stop_1">
+		<text>Well, good hunting from Telker. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_general_stop_2">
+		<text>All right, see you later! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_general_stop_3">
+		<text>Hoya's happy! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_general_wait_1">
+		<text>Vyakom... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_general_wait_2">
+		<text>Ah, ah, ah, ah, ah, ah, ah.... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_general_wait_3">
+		<text>CALM MUSIC </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_general_wait_4">
+		<text>At least it would seem like a mouthful. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_general_wait_5">
+		<text>Quiet! Something's making a noise. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_hello_1">
+		<text>Hi! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_hello_2">
+		<text>this </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_hello_3">
+		<text>Daro! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_hello_4">
+		<text>That's great! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_hide_weapon_1">
+		<text>Put the gun away, brother. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_hide_weapon_2">
+		<text>Hey, first of all, hooray for the start </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_hide_weapon_3">
+		<text>Hide the gun or get shot in the forehead? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_hide_weapon_4">
+		<text>A row of guns! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_hide_weapon_5">
+		<text>Stop and put the gun away! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_hide_weapon_6">
+		<text>Come on, you sing! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_hide_weapon_7">
+		<text>Valen cleaned up fast! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_hide_weapon_8">
+		<text>You fool, I'll shoot you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_stop_1">
+		<text>All right, see you later! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_stop_2">
+		<text>Good luck! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_stop_3">
+		<text>Greedy! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_stop_4">
+		<text>Hoya's happy! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_stop_5">
+		<text>Well, good hunting from Telker. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_stop_6">
+		<text>Who's that? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_default_1">
+		<text>No, I don't. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_default_2">
+		<text>No. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_default_3">
+		<text>If you don't, I'm out! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_default_4">
+		<text>I don't want to. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_default_5">
+		<text>Put the breeze on! Kaptip! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_1">
+		<text>Not seijas! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_2">
+		<text>What the hell are you doing? Not now! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_3">
+		<text>There's a war going on, can't you see? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_4">
+		<text>Talking after the fight! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_5">
+		<text>Piss off! You got the time! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_6">
+		<text>Get out of the way, you idiot! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_7">
+		<text>Hide, the gun's not on the rock! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_talk_leader_1">
+		<text>I don't have time to chat. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_talk_leader_2">
+		<text>Piss off! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_talk_leader_3">
+		<text>No. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_1">
+		<text>Uh, first, hide the gun, then we'll talk. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_2">
+		<text>If you want to talk, put the bagpipes away. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_3">
+		<text>Hide the bagpipes, we'll talk later. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_4">
+		<text>Hide the gun if you want to talk. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_5">
+		<text>Putting the rouge away, then we'll have a chat. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_6">
+		<text>What are you, a gun in your face, that you want to socialise? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_7">
+		<text>Let's go behind your back and have a chat then. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_8">
+		<text>Uh, first, hide the gun, then we'll talk. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_9">
+		<text>If you want to talk, put the bagpipes away. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_wait_1">
+		<text>in the daru. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_wait_10">
+		<text>Hmmm </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_wait_11">
+		<text>Oom! Aaaah! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_wait_12">
+		<text>You, uh. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_wait_2">
+		<text>Hi! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_wait_3">
+		<text>That's great! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_wait_4">
+		<text>Cacovis, </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_wait_5">
+		<text>At least it would seem like a mouthful. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_wait_6">
+		<text>Ah, ah, ah, ah.... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_wait_7">
+		<text>Eh, no saltines now! Ta tsebo, ulke! Eh! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_wait_8">
+		<text>- Yay! - Run! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_wait_9">
+		<text>Aubr-kadavra! Obr-cadavra... Obr-cadavra-cadavra-cadavra.... </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_weapon_start_1">
+		<text>Put the gun away, brother. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_weapon_start_2">
+		<text>Hey! Hiding the lino, man! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_weapon_start_3">
+		<text>Hide the gun or get shot in the forehead? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_weapon_wait_1">
+		<text>A row of guns! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_weapon_wait_2">
+		<text>Stop and put the gun away! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_weapon_wait_3">
+		<text>Come on, you sing! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_weapon_wait_4">
+		<text>Valen cleaned up fast! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_weapon_wait_5">
+		<text>You fool, I'll shoot you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_panic_human_panic_human_1">
+		<text>Hold your fire! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_panic_human_panic_human_2">
+		<text>Don't shoot! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_panic_human_panic_human_3">
+		<text>I surrender! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_panic_human_panic_human_4">
+		<text>Mate, mate, don't shoot! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_panic_human_panic_human_5">
+		<text>Don't shoot, you're dead! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_panic_monster_panic_monster_1">
+		<text>Somebody help! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_panic_monster_panic_monster_2">
+		<text>Save me! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_panic_monster_panic_monster_3">
+		<text>Help me! It's not healing behind me! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_sleep_sleep_1">
+		<text>Sha-sha-sha-sha-shooters! Sha-bin we're gonna do some shooting here! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_sleep_sleep_2">
+		<text>Ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya! Ooh-ooh-ooh-ooh! Whoo-hoo! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_sleep_sleep_3">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_sleep_sleep_4">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_sleep_sleep_5">
+		<text>иёў! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_sleep_sleep_6">
+		<text>Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_sleep_sleep_7">
+		<text> </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_sleep_sleep_8">
+		<text>Subtitle Editor A.Sinetskaya Corrector V.Sukhiashvili </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_trade_buy_1">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_trade_sell_1">
+		<text>Subtitle Editor A.Sinetskaya Corrector A.Egorova </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_intros_intro_joke_1">
+		<text>Oh, they're catching up. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_intros_intro_joke_2">
+		<text>Anyway, they dot. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_intros_intro_joke_3">
+		<text>Oh, by the way, did you hear that? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_intros_intro_joke_4">
+		<text>Nikdot! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_intros_intro_joke_5">
+		<text>And here's the kemu. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_intros_intro_music_1">
+		<text>Yeah, they're not gonna do anything. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_intros_intro_music_2">
+		<text>Eh, it's a bit boring! I'll have a bass and some tea. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_intros_intro_music_3">
+		<text>Shovel something in or something? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_intros_intro_music_4">
+		<text>What would you like to play? Oh, here we go. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_intros_intro_music_5">
+		<text>Oh, everybody, check it out! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_intros_intro_music_6">
+		<text>Guys, a musical pause, like. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_joke_reaction_joke_1">
+		<text> Not pictorial! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_joke_reaction_joke_2">
+		<text>Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee! Stalker, stalker! No-one's gonna help! hagesmic </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_joke_reaction_joke_3">
+		<text>You can't just make money that way. You get up early, you run around all day, you huff and puff. Hehehe, and to you, peddler, two roubles, for all his efforts. Ha ha ha! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_joke_reaction_joke_4">
+		<text>You can't just take the money. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_joke_reaction_joke_5">
+		<text>I've heard that joke before. Stalker. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_reactions_joke_reaction_joke_6">
+		<text>Missed again, but you're heading in the right direction. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_use_abuse_1">
+		<text>You're fucking annoying. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_use_abuse_2">
+		<text>Dude, you're a dick! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_use_abuse_3">
+		<text>Brother, you're a tedious one, and you've been getting punched in the face at home. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_use_abuse_4">
+		<text>Put the breeze on! Kaptip! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_default_1">
+		<text>No, I'm not in the mood for chitchat. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_default_2">
+		<text>I'm sorry, I don't feel like talking right now. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_default_3">
+		<text>Mate, you don't get it, do you? I don't want to talk to you. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_default_4">
+		<text>Man, I haven't got a day out of here yet. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_default_5">
+		<text>Piss off! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_1">
+		<text>Not seijas! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_2">
+		<text>What the hell are you doing? Not now! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_3">
+		<text>There's a war going on, can't you see? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_4">
+		<text>Talking after the fight! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_5">
+		<text>Piss off! You got the time! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_6">
+		<text>Get out of the way, you idiot! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_fight_7">
+		<text>Hide, the gun's not on the rock! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_use_no_sleep_1">
+		<text>Mm-hmm. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_use_no_sleep_2">
+		<text>EATO LONG-PERENNI </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_use_no_sleep_3">
+		<text>N, that's, for the piГЁce de rГ©sistance! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_use_no_sleep_4">
+		<text>Nah, me, well, nah, I don't dare do that. All right, okay. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_talk_use_no_sleep_5">
+		<text>Aaaaaaaaaaaaaaaaah! Aaaah! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_1">
+		<text>Uh, first, hide the gun, then we'll talk. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_2">
+		<text>If you want to talk, put the bagpipes away. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_3">
+		<text>Hide the bagpipes, we'll talk later. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_4">
+		<text>Hide the gun if you want to talk. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_5">
+		<text>Putting the rouge away, then we'll have a chat. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_6">
+		<text>What are you, a gun in your face, that you want to socialise? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_states_meet_meet_use_no_weapon_7">
+		<text>Let's go behind your back and have a chat then. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_back_off_backoff_1">
+		<text>Piss off! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_back_off_backoff_2">
+		<text>I don't have time to chat. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_back_off_backoff_3">
+		<text>Get the fuck out of here! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_back_off_backoff_4">
+		<text>Are you tired? Haven't had a poche in a while. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_back_off_backoff_5">
+		<text>Come on! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_back_off_backoff_6">
+		<text>Dude, get out of my face. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_back_off_backoff_7">
+		<text>Get out of here, Valya! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_back_off_backoff_8">
+		<text>Don't you get it, Valin Ahren? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_drop_weapon_dropweapon_1">
+		<text>Put the gun away, brother. </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_drop_weapon_dropweapon_10">
+		<text>What a bunch of idiots! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_drop_weapon_dropweapon_2">
+		<text>Hey, what's going on with the Chemaak? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_drop_weapon_dropweapon_3">
+		<text>Hide the gun or get shot in the forehead? </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_drop_weapon_dropweapon_4">
+		<text>A row of guns! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_drop_weapon_dropweapon_5">
+		<text>Stop and put the gun away! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_drop_weapon_dropweapon_6">
+		<text>Come on, you sing! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_drop_weapon_dropweapon_7">
+		<text>Valen cleaned up fast! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_drop_weapon_dropweapon_8">
+		<text>You fool, I'll shoot you! </text>
+	</string>
+	<string id="as_sub__characters_voice_human_greh_1_threat_drop_weapon_dropweapon_9">
+		<text>I repeat for the stupid, put the fucking guns away! </text>
+	</string>
+</string_table>
